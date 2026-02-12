@@ -1,14 +1,14 @@
 Interactive Valentine
 
-An interactive web application demonstrating basic DOM manipulation and event handling in JavaScript.
+A simple web application with an interactive interface.
 
 Features
-- Dynamic button positioning ("No" button evades mouse cursor/touch).
-- Conditional rendering of success message after interaction.
-- Basic particle effect (falling heart elements) triggered by user action.
-- Responsive design for mobile and desktop devices.
+- Interactive buttons: The "No" button moves away when approached.
+- Success screen: Special message displayed after clicking "Yes".
+- Animation: Falling hearts effect.
+- Mobile support: Works on both desktop and mobile devices.
 
-Technologies Used
+Technologies
 - HTML5
 - CSS3
 - JavaScript
